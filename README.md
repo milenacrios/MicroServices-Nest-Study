@@ -103,6 +103,6 @@ Agora que os serviços estão criados, precisamos dizer ao controlados as rotas 
 <ul> 
     <li> Get: /boo = lista todos os livros do banco de dados e :id lista a informação do livro por id passado pela url</li>
     <li> Post: /book = insere um novo objeto ao banco de dados </li>
-    <li> Put: :id = edita um objeto do banco de acordo com o id passado <li>
+    <li> Put: :id = edita um objeto do banco de acordo com o id passado </li>
     <li> Delete: :id = apaga um objeto do banco de acordo com o id passado </li>
 </ul>
